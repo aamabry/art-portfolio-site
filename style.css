@@ -1,0 +1,45 @@
+
+
+.tangerine-bold {
+    font-family: "Tangerine", cursive;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+body {
+    background: black;
+}
+
+.container-home {
+    text-align: center;
+    color: rgb(255, 218, 7);
+    background: black;
+    padding: 40px;
+}
+
+.header h1{
+    font-family: "Tangerine", cursive;
+    font-size: 100px;
+}
+
+.navbar a{
+    color: green
+}
+
+
+
+.carousel-item{
+    transition: transform 5s ease, opacity 5s ease-out
+}
+
+.carousel-item img{
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px 10px rgb(14, 100, 11);
+    margin-bottom: 30px;
+}
+
+footer {
+    padding-top: 25px;
+    padding-bottom: 0;
+    font-size: 10px;
+}
